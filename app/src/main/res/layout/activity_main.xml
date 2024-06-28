@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="158dp"
         android:layout_height="111dp"
-        android:text="Git32"
+        android:text="Git35"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
